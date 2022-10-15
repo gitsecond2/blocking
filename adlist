@@ -31204,9 +31204,6 @@ zurgerya.ru
 zxrtn.com
 zycvyudt.com
 zz2017.ru
-!
-! Ads reinjection (For apps only)
-!
 4jiqzr.ru
 csp-oz66pp.ru
 d38dub.ru
@@ -31222,19 +31219,8 @@ v6t39t.ru
 vt4dlx.ru
 xifg6h.ru
 zfvklk.ru
-!
-!+ PLATFORM(ios, ext_android_cb, ext_safari)
 adbetnet.com
-!+ NOT_PLATFORM(ios, ext_android_cb, ext_safari)
 cpm.wargaming.net
-
-!
-! Source name: AdGuard Russian filter ad servers first-party
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers_firstparty.txt
-!
-!
-! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
-!
 vast4.kinogo.la
 dsn-kuban.krasnodar.su
 nativ.podruzke.ru
@@ -31424,14 +31410,6 @@ ts2.hockey-talks.com
 ukrsvit.ukrmir.info
 vozer.voffka.com
 vw.onlinia.net
-
-!
-! Source name: AdGuard Russian filter news exchange servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/news_exchange.txt
-!
-!
-! Новостные тизерки
-!
 top-js-metrics.top.my.ua
 novosti-online.gq
 mirror.smi.fm
@@ -31487,11 +31465,6 @@ secure.ognyvo.ru
 top-newsrustoria.ru
 topruistory.ru
 toprustory.ru
-!
-! Source name: AdGuard Turkish filter ad servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
-!
-!
 aj1907.online
 stopblyat.tk
 yes999.gq
@@ -31741,14 +31714,6 @@ visilabs.net
 winaffiliates.com
 xpornoizlex.net
 xyztanitim.com
-
-!
-! Source name: AdGuard Turkish filter ad servers first-party
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers_firstparty.txt
-!
-!
-! Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
-!
 partnerx.bethub.io
 ttauri.livescience.com
 adn.bursadabugun.com
@@ -31798,81 +31763,14 @@ reklam.yonlendir.com
 ad.sacitaslan.com
 cdn.hiperadverts.com
 savoy.cubecdn.net
-
-!
-! Source name: AdGuard French filter ad servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/FrenchFilter/sections/adservers.txt
-!
-!
-! Section contains list of advertising networks
-!
-mystighty.info
-i4tvy8vk9f74.com
-sohjah-thahka.info
-goitcl.com
-mineralisasse.site
-!
-! Source name: AdGuard Japanese filter ad servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/JapaneseFilter/sections/adservers.txt
-!
-!
-! Section contains list of advertising networks
-!
-! https://github.com/AdguardTeam/AdguardFilters/issues/23113
-! weblio.jp$third-party
-!
-! Yahoo
-promotionalads.yahoo.co.jp
-adserver.yahoo.co.jp
-smartads.mobile.yahoo.co.jp
-rd.yahoo.co.jp
-ard.yahoo.co.jp
-ov.yahoo.co.jp
-yeas.yahoo.co.jp
-logoole.yahoo.co.jp
-yads.yahoo.co.jp
-yads.yjtag.yahoo.co.jp
-yjaxc.yahoo.co.jp
-!
-! Shinobi.jp
-adm.shinobi.jp
-adf.shinobi.jp
-axad.shinobi.jp
-bar*.shinobi.jp
-ct1.shinobi.jp
-ct2.shinobi.jp
-!
-! Rakuten.co.jp
-affiliate.rakuten.co.jp
-hbb.afl.rakuten.co.jp
-hb.afl.rakuten.co.jp
-!
-! Nikkeibp.co.jp
-bizad.nikkeibp.co.jp
-adserve5.nikkeibp.co.jp
-!
-! Livedoor.com
 adv.livedoor.com
 counter2.blog.livedoor.com
-!
-! Gunosy.com
 ad.gunosy.com
 adapi.gunosy.com
 adntokyo.gunosy.com
 creatives.gunosy.com
-!
-! Fc2.com
 analyzer*.fc2.com
 media5.fc2.com
-!
-! Excite.co.jp
-nc-log.excite.co.jp
-adimp.excite.co.jp
-adimpkwd.excite.co.jp
-!
-! Eimg.jp
-adingo.jp.eimg.jp
-!
 afi-b.com
 p.storage-ad.com
 amaprop.net
@@ -32118,11 +32016,6 @@ widget-view.dmm.co.jp
 widget-view.dmm.com
 widget.zenback.jp
 w.zenback.jp
-
-!
-! Source name: AdGuard German filter ad servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers.txt
-!
 kunner.wiesentbote.de
 yieldlove-ad-serving.net
 partner.shop.vorwerk.de
@@ -32146,13 +32039,6 @@ azol.de
 chickensaladandads.com
 adshot.de
 content.acc-hd.de
-!
-! Source name: AdGuard Chinese filter ad servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers.txt
-!
-!
-! Section contains list of advertising networks
-!
 local.hniux.cn
 ce.wlaoc.cn
 count.xxxssk.com
@@ -32288,10 +32174,6 @@ t.njzrxx.xyz
 f.zgbmw.com.cn
 83.locksmaker.com.cn
 yqrta.xyz
-!
-! Source name: EasyList Germany ad servers
-! Source: https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt
-!
 4rm.de
 a3h.de
 ablida-rotation.com
@@ -32584,14 +32466,8 @@ z0a.de
 za-ads.de
 zieltracker.de
 zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de
-! Mobile
 avault.net
 recognified.net
-
-!
-! Source name: EasyList Italy ad servers
-! Source: https://hg.adblockplus.org/easylistitaly/raw-file/tip/easylistitaly/easylistitaly_adservers.txt
-!
 24network.it
 4strokemedia.com
 ad4mat.it
@@ -32711,11 +32587,6 @@ worldfilia.net
 yobee.it
 zanox-affiliate.de
 zodiakactive.com
-
-!
-! Source name: ABPindo ad servers
-! Source: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt
-!
 05ee3a24ed11df058c8.com
 188affiliates.com
 2go7v1nes8.com
@@ -39348,9 +39219,6 @@ tracking.unrealengine.com
 tracking.ustream.tv
 tracking.yourfilehost.com
 trackpm.shop2market.com
-!
-! Ads
-!
 adocean.cz
 doubleclick.net
 tt.onthe.io
@@ -39406,7 +39274,6 @@ novunu.football-plyus.net
 112.112.112.149.in-addr.arpa
 1180c.ec.azureedge.net
 1180c.wpc.azureedge.net
-128.1.168.192.in-addr.arpa
 13.32.121.109
 17-courier.push.apple.com
 18.66.96.119
@@ -39720,7 +39587,6 @@ data.mistat.xiaomi.com
 data.sec.miui.com
 davidstea.my.salesforce.com
 db._dns-sd._udp.0.1.7.10.in-addr.arpa
-db._dns-sd._udp.0.157.168.192.in-addr.arpa
 db._dns-sd._udp.0.177.16.172.in-addr.arpa
 db._dns-sd._udp.0.199.16.172.in-addr.arpa
 db._dns-sd._udp.0.2.7.10.in-addr.arpa
@@ -39840,7 +39706,6 @@ geniatech.eu
 geo-applefinance-cache.internal.query.g03.yahoodns.net
 geofence.sys.miui.com
 geomobileservices-pa.googleapis.com
-get.skype.com
 ggpht.com
 gist.githubusercontent.com
 github.com
@@ -39849,7 +39714,6 @@ global.market.xiaomi.com
 global.preview.app.market.pt.xiaomi.com
 globalapi.ad.xiaomi.com
 go-updater.brave.com
-go.microsoft.com
 go.trouter.skype.com
 google-analytics.com
 googleads.g.doubleclick.net
@@ -39926,7 +39790,6 @@ kotaku.com
 l.facebook.com
 laptop-updates.brave.com
 laptop-updates.brave.com
-lastfm.freetls.fastly.net
 lb._dns-sd._udp.0.1.7.10.in-addr.arpa
 lb._dns-sd._udp.0.199.16.172.in-addr.arpa
 lb._dns-sd._udp.0.72.16.172.in-addr.arpa
@@ -39967,7 +39830,6 @@ logincdn.msauth.net
 logs.amap.com
 logupdate.avlyun.sec.miui.com
 lookaside.facebook.com
-loteries.lotoquebec.com
 ltlxvxjjmvhn.me
 m.doubleclick.net
 m.facebook.com
@@ -40027,7 +39889,6 @@ new.api.ad.xiaomi.com
 news.g2a.com
 nohost
 nohost.lan
-nordvpn.com
 notice.game.xiaomi.com
 notificationcontent.entrance.sonymobile.com
 ns8469rfvth42.xyz
@@ -40178,7 +40039,6 @@ slashdot.org
 slscr.update.microsoft.com
 smp-device-content.apple.com
 someonewhocares.org
-soundsofpleasure.tumblr.com
 ssl-ccstatic.highwebmedia.com
 ssl.google-analytics.com
 ssl.googleanalytics.com
@@ -40202,7 +40062,6 @@ streamate.com
 substrate.office.com
 support.microsoft.com
 survey.g.doubleclick.net
-swscan.apple.com
 sysctl.org
 t.nuvidp.com
 tags.crwdcntrl.net
@@ -40393,14 +40252,11 @@ wwis-dubc1-vip97.adobe.com
 wwis-dubc1-vip98.adobe.com
 wwis-dubc1-vip99.adobe.com
 www-cdn.icloud.com.akadns.net
-www.alcpu.com
 www.apetube.com
 www.awin1.com
 www.bing.com
 www.birkenwald.de
 www.cisco.com
-www.cordcutters.com
-www.cpuid.com
 www.drtuber.com
 www.facebook.com
 www.geniatech.eu
